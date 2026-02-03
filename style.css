@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    background: #111;
+    color: #eee;
+    padding: 40px;
+}
+
+input {
+    width: 100%;
+    padding: 15px;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.result {
+    background: #1e1e1e;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-left: 4px solid #00ffcc;
+}
+
+mark {
+    background: #00ffcc;
+    color: #000;
+}
